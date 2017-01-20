@@ -223,8 +223,7 @@ this even though we know this isn't true: for example, the word
 word "salt" than it is to appear in a document that contains the word
 "subroutine".  Luckily, as it turns out, making this assumption even
 when it isn't true may have little effect on our results, as the
-following paper by Pedro Domingos argues:
-L<"http://www.cs.washington.edu/homes/pedrod/mlj97.ps.gz">
+following paper by Pedro Domingos argues L<here|http://www.cs.washington.edu/homes/pedrod/mlj97.ps.gz>
 
 =head1 SEE ALSO
 
